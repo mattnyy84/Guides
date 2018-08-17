@@ -12,5 +12,4 @@
   * Exactly 5000.00 AQX as collateral. *(Send 5001+ to wallet from exchange to cover fees)*
   * Dedicated Linux (Ubuntu 16.04) VPS from [Vultr.](https://www.vultr.com/?ref=7454181) 
     * *$5 Vultr server will do. (Can safely run Approx. 3-4 different coins)*
-  * Synchronized [AQX wallet.](https://github.com/aquilacoin/Wallets)
 -----
