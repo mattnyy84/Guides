@@ -42,8 +42,8 @@
 
 * From the terminal session, run the following commands
 ```
-mkdir -p ~/.aqx
-nano ~/.aqx/aqx.conf
+mkdir -p ~/.Aquila
+nano ~/.Aquila/Aquila.conf
 ```
 
 * Now add the following lines to this file, replacing any < > field with your information
