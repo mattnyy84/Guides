@@ -72,13 +72,13 @@ masternodeprivkey=<masternode private key>
 
 * From the terminal session, run the following commands
 ```
-./aquilad
+./Aquilad
 ```
 
 ## Wait for the AQX Linux Daemon to sync
 
 * From the terminal session, run the following commands
 ```
-./aquila-cli getinfo
+./Aquila-cli getinfo
 ```
 * Compare the "Block Height" value with the latest from the [AQX block explorer](http://exploreraqx.aquila.online/). When those are the same, your daemon is synchronized 
