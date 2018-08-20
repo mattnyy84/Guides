@@ -17,7 +17,7 @@
 
   * From the terminal session, run the following command
   ```
-  https://github.com/aquilacoin/AquilaX/releases/download/1.2.0.0/AquilaX-linux.tar.gz
+  wget https://github.com/aquilacoin/AquilaX/releases/download/1.2.0.0/AquilaX-linux.tar.gz
   ```
   * From the terminal session, run the following command
   ```
