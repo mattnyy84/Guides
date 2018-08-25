@@ -13,7 +13,7 @@
   sudo apt-get upgrade
   ```
   
-## Download the IPSUM Linux Daemon
+## Download the AQX Linux Daemon
 
   * From the terminal session, run the following command
   ```
